@@ -8,3 +8,4 @@
 ## Uruchomienie
 1. Sklonowanie repozytorium na dysk
 2. Zbudowanie i uruchomienie kontenera przy pomocy polecenia `COMPOSE_DOCKER_CLI_BUILD=1 DOCKER_BUILDKIT=1 docker compose up` 
+(aby móc użyć tego polecenia należy mieć zainstalowanego docker compose w wersji drugiej)
